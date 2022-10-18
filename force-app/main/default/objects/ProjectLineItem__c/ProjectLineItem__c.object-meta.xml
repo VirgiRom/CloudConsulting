@@ -152,15 +152,16 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>Private</externalSharingModel>
-    <label>Project</label>
+    <externalSharingModel>ControlledByParent</externalSharingModel>
+    <label>ProjectLineItem</label>
     <nameField>
-        <label>Project Name</label>
+        <displayFormat>PLI-{0000}</displayFormat>
+        <label>ProjectLineItem Name</label>
         <trackHistory>false</trackHistory>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Projects</pluralLabel>
+    <pluralLabel>ProjectLineItems</pluralLabel>
     <searchLayouts></searchLayouts>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
