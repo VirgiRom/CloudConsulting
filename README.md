@@ -1,18 +1,10 @@
-# Salesforce DX Project: Next Steps
-
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
-
-## How Do You Plan to Deploy Your Changes?
-
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
-
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+APP PERSONALIZADA - 
+HOME
+![image](https://user-images.githubusercontent.com/99770498/200348018-be67d96b-4d06-445d-a2ad-41f5bcc9a620.png)
+PROJECTS
+Desarrollo de componente para locacion de recursos
+![image](https://user-images.githubusercontent.com/99770498/200348514-fce8580b-f7f9-42e6-8379-0f9d7df0c566.png)
+Desarrollo de componente para la asignacion de Tareas
+![image](https://user-images.githubusercontent.com/99770498/200348854-4eb03d86-ee56-4481-9138-36c618536400.png)
+Desarrollo de componente para Approve o Reject de solicitudes Out Of office
+![image](https://user-images.githubusercontent.com/99770498/200349241-4269d179-3271-4e1a-a00c-6b9148db2802.png)
